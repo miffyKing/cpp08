@@ -5,7 +5,6 @@
 #include <string>
 #include <vector>
 #include <exception>
-#include <new>
 
 class Span
 {

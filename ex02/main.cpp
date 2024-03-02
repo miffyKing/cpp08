@@ -33,8 +33,7 @@ int main()
     ++it;
   }
   std::stack<int> s(mstack);
-  // std::stack<int>::iterator it = s.begin();
-
+  
   std::cout << std::endl
             << std::endl
             << "list test (expected same output)" << std::endl;

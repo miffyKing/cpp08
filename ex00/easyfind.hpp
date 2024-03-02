@@ -2,6 +2,7 @@
 #define easy_HPP
 
 #include <iostream>
+#include <algorithm>
 
 template <typename T>
 void easyfind(T a, int b)
